@@ -1,0 +1,12 @@
+{
+  "name": "search-books",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node start"
+  },
+  "keywords": [],
+  "author": "Charles Agra",
+  "license": "ISC"
+}
