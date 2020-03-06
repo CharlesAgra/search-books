@@ -4,9 +4,13 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "node start"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "Charles Agra",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "inquirer": "^7.0.6"
+  }
 }
